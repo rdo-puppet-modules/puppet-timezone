@@ -1,0 +1,7 @@
+Code-Review+2: RDO CI Service Account <openstack-ci-service@redhat.com>
+Verified+1: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-by: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-at: Sun, 31 Jan 2016 04:28:36 +0100
+Reviewed-on: https://review.gerrithub.io/261691
+Project: rdo-puppet-modules/puppet-timezone
+Branch: refs/heads/recomb-original-master-cf62f1bb34c2704afac9e2d37244bbf0c6b3ac95
